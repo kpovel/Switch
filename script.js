@@ -21,4 +21,4 @@ function calc(a, b, operation) {
             return 'Unknown operator';
     }
 }
-console.log(calc(9, 2, 'sum'));
+console.log(calc(9, 2, 'divide'));
